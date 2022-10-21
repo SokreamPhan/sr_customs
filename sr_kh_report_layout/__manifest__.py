@@ -16,5 +16,6 @@
         "views/report_kh_tax_invoice.xml",
         "views/report_kh_commercial_invoice.xml",
     ],
+    'images': ['static/description/logo.gif'],
     "installable": True,
 }
