@@ -5,7 +5,7 @@
             This addon will add two new print options on Customer Invoices,
             following Cambodia's Tax Invoice and Commercial Invoice
         """,
-    "version": "15.0.1.0.0",
+    "version": "14.0.1.0.0",
     "author": "SokreamPhan",
     "license": "AGPL-3",
     "website": "",
